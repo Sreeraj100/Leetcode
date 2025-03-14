@@ -1,8 +1,9 @@
-<h2><a href="https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/">2824. Count Pairs Whose Sum is Less than Target</a></h2><h3>Easy</h3><hr><div>Given a <strong>0-indexed</strong> integer array <code>nums</code> of length <code>n</code> and an integer <code>target</code>, return <em>the number of pairs</em> <code>(i, j)</code> <em>where</em> <code>0 &lt;= i &lt; j &lt; n</code> <em>and</em> <code>nums[i] + nums[j] &lt; target</code>.
+<h2><a href="https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target">2824. Count Pairs Whose Sum is Less than Target</a></h2><h3>Easy</h3><hr>Given a <strong>0-indexed</strong> integer array <code>nums</code> of length <code>n</code> and an integer <code>target</code>, return <em>the number of pairs</em> <code>(i, j)</code> <em>where</em> <code>0 &lt;= i &lt; j &lt; n</code> <em>and</em> <code>nums[i] + nums[j] &lt; target</code>.
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre><strong>Input:</strong> nums = [-1,1,2,3,1], target = 2
+<pre>
+<strong>Input:</strong> nums = [-1,1,2,3,1], target = 2
 <strong>Output:</strong> 3
 <strong>Explanation:</strong> There are 3 pairs of indices that satisfy the conditions in the statement:
 - (0, 1) since 0 &lt; 1 and nums[0] + nums[1] = 0 &lt; target
@@ -13,7 +14,8 @@ Note that (0, 3) is not counted since nums[0] + nums[3] is not strictly less tha
 
 <p><strong class="example">Example 2:</strong></p>
 
-<pre><strong>Input:</strong> nums = [-6,2,5,-2,-7,-1,3], target = -2
+<pre>
+<strong>Input:</strong> nums = [-6,2,5,-2,-7,-1,3], target = -2
 <strong>Output:</strong> 10
 <strong>Explanation:</strong> There are 10 pairs of indices that satisfy the conditions in the statement:
 - (0, 1) since 0 &lt; 1 and nums[0] + nums[1] = -4 &lt; target
@@ -35,4 +37,3 @@ Note that (0, 3) is not counted since nums[0] + nums[3] is not strictly less tha
 	<li><code>1 &lt;= nums.length == n &lt;= 50</code></li>
 	<li><code>-50 &lt;= nums[i], target &lt;= 50</code></li>
 </ul>
-</div>

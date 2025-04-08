@@ -2,26 +2,34 @@
  * @param {string} s
  * @return {boolean}
  */
-var isValid = function (s) {
-    const stack = [];
-    const bracketMap = { ')': '(', '}': '{', ']': '[' };
+var isValid = function(s) {
 
-    for (let char of s) {
-        // If char is a closing bracket
-        if (bracketMap[char]) {
-            // Pop the top element from stack if not empty, otherwise set it to null
-            const topElement = stack.length > 0 ? stack.pop() : null;
+    let stack = [];
 
-            // Check if the top element matches the opening bracket
-            if (topElement !== bracketMap[char]) {
-                return false;
-            }
+    for (let i = 0; i < s.length; i++) {
+        let ch = s[i];
+
+        if (ch === '(' || ch === '{' || ch === '[') {
+            stack.push(ch);
         } else {
-            // If it's an opening bracket, push onto stack
-            stack.push(char);
+            if (stack.length === 0) {
+               return false
+            }
+
+            let last = stack[stack.length - 1];
+
+            if (
+                (ch === ')' && last === '(') ||
+                (ch === '}' && last === '{') ||
+                (ch === ']' && last === '[')
+            ) {
+                stack.pop();
+            } else {
+                return false
+            }
         }
     }
 
-    // If the stack is empty, all brackets matched correctly
-    return stack.length === 0;
+    return stack.length === 0
+
 };

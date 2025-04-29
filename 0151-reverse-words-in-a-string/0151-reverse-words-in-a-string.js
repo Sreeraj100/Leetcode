@@ -3,5 +3,16 @@
  * @return {string}
  */
 var reverseWords = function(s) {
-return s.trim().split(/\s+/).reverse().join(' ')
+
+ let arr=s.trim().split(' ')
+ let out=""
+ for(let i=arr.length-1;i>=0;i--){
+if(arr[i]!=''){
+    out+=arr[i]+" "
+}
+
+ }
+ return out.trim() 
+
+
 };

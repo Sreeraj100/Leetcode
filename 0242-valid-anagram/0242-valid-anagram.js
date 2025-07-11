@@ -5,8 +5,15 @@
  */
 var isAnagram = function(s, t) {
     
-let w1=s.split('').sort().join('')
-let w2=t.split('').sort().join('')
-return w1===w2
+    if(s.length !== t.length) return false
+    let count={}
+    for(let i of s){
+        count[i]?count[i]++:count[i]=1
+    }
+    for(let i of t){
+        if(!count[i]) return false
+        count[i]--
+    }
 
+    return true
 };

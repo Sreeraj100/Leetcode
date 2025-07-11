@@ -12,9 +12,7 @@ var isValid = function(s) {
         if (ch === '(' || ch === '{' || ch === '[') {
             stack.push(ch);
         } else {
-            if (stack.length === 0) {
-               return false
-            }
+           
 
             let last = stack[stack.length - 1];
 

@@ -8,7 +8,7 @@ var finalPositionOfSnake = function(n, commands) {
   for(let i=0;i<commands.length;i++){
     if(commands[i]=="DOWN"){
         count+=n
-    }else if(commands[i]=="UP" && count>3){
+    }else if(commands[i]=="UP" && count>=n){
         count-=n
     }else if(commands[i]=="RIGHT"){
         count++

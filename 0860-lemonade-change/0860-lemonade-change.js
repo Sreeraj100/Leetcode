@@ -3,27 +3,24 @@
  * @return {boolean}
  */
 var lemonadeChange = function(bills) {
-let five=[]
-let ten=[]
-// let arr=[]
+let five=0
+let ten=0
 for(let i=0;i<bills.length;i++){
     if(bills[i]==5){
-        five.push(bills[i])
+        five++
     }else if(bills[i]==10){
-     if(five.includes(5)){
-        five.pop()
-        ten.push(bills[i])
+     if(five!=0){
+        five--
+        ten++
      }else{
         return false
      }
     }else if(bills[i]==20){
-    if(five.length && ten.length){
-       five.pop()
-       ten.pop()
-     }else if(five.length>3){
-      five.pop()
-      five.pop()
-      five.pop()
+    if(five!=0 && ten!=0){
+       five--
+       ten--
+     }else if(five>=3){
+      five-=3
     }else{
         return false
      }

@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sreeraj100/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Sreeraj100/Leetcode/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -14,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sreeraj100/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Sreeraj100/Leetcode/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -24,4 +26,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sreeraj100/Leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sreeraj100/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sreeraj100/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 <!---LeetCode Topics End-->

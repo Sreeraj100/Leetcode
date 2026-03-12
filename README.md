@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1837-sum-of-digits-in-base-k](https://github.com/Sreeraj100/Leetcode/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
 | [3270-find-the-key-of-the-numbers](https://github.com/Sreeraj100/Leetcode/tree/main/3270-find-the-key-of-the-numbers/) | Easy |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Sreeraj100/Leetcode/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Sreeraj100/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,4 +81,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2363-merge-similar-items](https://github.com/Sreeraj100/Leetcode/tree/main/2363-merge-similar-items/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Sreeraj100/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->

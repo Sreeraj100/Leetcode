@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sreeraj100/Leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1837-sum-of-digits-in-base-k](https://github.com/Sreeraj100/Leetcode/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
+| [1925-count-square-sum-triples](https://github.com/Sreeraj100/Leetcode/tree/main/1925-count-square-sum-triples/) | Easy |
 | [3270-find-the-key-of-the-numbers](https://github.com/Sreeraj100/Leetcode/tree/main/3270-find-the-key-of-the-numbers/) | Easy |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Sreeraj100/Leetcode/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sreeraj100/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -85,4 +86,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sreeraj100/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1925-count-square-sum-triples](https://github.com/Sreeraj100/Leetcode/tree/main/1925-count-square-sum-triples/) | Easy |
 <!---LeetCode Topics End-->

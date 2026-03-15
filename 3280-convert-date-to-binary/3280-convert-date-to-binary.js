@@ -3,7 +3,11 @@
  * @return {string}
  */
 var convertDateToBinary = function(date) {
-   let parts = date.split('-')
-    return parts.map(p => Number(p).toString(2)).join('-');
-
+    let temp = date.split('-')
+    let res = []
+    for (let i = 0; i < temp.length; i++){
+     res.push(Number(temp[i]).toString(2))
+    }
+        
+     return res.join('-')
 };

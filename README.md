@@ -103,4 +103,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Sreeraj100/Leetcode/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1791-find-center-of-star-graph](https://github.com/Sreeraj100/Leetcode/tree/main/1791-find-center-of-star-graph/) | Easy |
 <!---LeetCode Topics End-->

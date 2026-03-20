@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sreeraj100/Leetcode/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sreeraj100/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Sreeraj100/Leetcode/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
+| [2255-count-prefixes-of-a-given-string](https://github.com/Sreeraj100/Leetcode/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [2363-merge-similar-items](https://github.com/Sreeraj100/Leetcode/tree/main/2363-merge-similar-items/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sreeraj100/Leetcode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Sreeraj100/Leetcode/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/Sreeraj100/Leetcode/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Sreeraj100/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
+| [2255-count-prefixes-of-a-given-string](https://github.com/Sreeraj100/Leetcode/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/Sreeraj100/Leetcode/tree/main/3280-convert-date-to-binary/) | Easy |
 ## Design
 | Problem Name | Difficulty |

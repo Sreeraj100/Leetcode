@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Sreeraj100/Leetcode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Sreeraj100/Leetcode/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Sreeraj100/Leetcode/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Sreeraj100/Leetcode/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 ## Simulation
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0844-backspace-string-compare](https://github.com/Sreeraj100/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sreeraj100/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Sreeraj100/Leetcode/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Sreeraj100/Leetcode/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -38,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1925-count-square-sum-triples](https://github.com/Sreeraj100/Leetcode/tree/main/1925-count-square-sum-triples/) | Easy |
 | [3270-find-the-key-of-the-numbers](https://github.com/Sreeraj100/Leetcode/tree/main/3270-find-the-key-of-the-numbers/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/Sreeraj100/Leetcode/tree/main/3280-convert-date-to-binary/) | Easy |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Sreeraj100/Leetcode/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Sreeraj100/Leetcode/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sreeraj100/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Linked List
@@ -136,4 +139,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1302-deepest-leaves-sum](https://github.com/Sreeraj100/Leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Sreeraj100/Leetcode/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 <!---LeetCode Topics End-->

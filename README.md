@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0535-encode-and-decode-tinyurl](https://github.com/Sreeraj100/Leetcode/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Sreeraj100/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Sreeraj100/Leetcode/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/Sreeraj100/Leetcode/tree/main/2710-remove-trailing-zeros-from-a-string/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/Sreeraj100/Leetcode/tree/main/3280-convert-date-to-binary/) | Easy |
 ## Design
 | Problem Name | Difficulty |

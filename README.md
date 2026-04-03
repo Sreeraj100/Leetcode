@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0605-can-place-flowers](https://github.com/Sreeraj100/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
+| [0944-delete-columns-to-make-sorted](https://github.com/Sreeraj100/Leetcode/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [1313-decompress-run-length-encoded-list](https://github.com/Sreeraj100/Leetcode/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sreeraj100/Leetcode/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sreeraj100/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | ------- | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/Sreeraj100/Leetcode/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Sreeraj100/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
+| [0944-delete-columns-to-make-sorted](https://github.com/Sreeraj100/Leetcode/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Sreeraj100/Leetcode/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Sreeraj100/Leetcode/tree/main/2710-remove-trailing-zeros-from-a-string/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/Sreeraj100/Leetcode/tree/main/3280-convert-date-to-binary/) | Easy |

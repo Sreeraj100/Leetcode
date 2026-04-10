@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Sreeraj100/Leetcode/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Sreeraj100/Leetcode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Sreeraj100/Leetcode/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Sreeraj100/Leetcode/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Sreeraj100/Leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Sreeraj100/Leetcode/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sreeraj100/Leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1837-sum-of-digits-in-base-k](https://github.com/Sreeraj100/Leetcode/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
 | [1925-count-square-sum-triples](https://github.com/Sreeraj100/Leetcode/tree/main/1925-count-square-sum-triples/) | Easy |

@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Sreeraj100/Leetcode/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/Sreeraj100/Leetcode/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sreeraj100/Leetcode/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Sreeraj100/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sreeraj100/Leetcode/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Sreeraj100/Leetcode/tree/main/3184-count-pairs-that-form-a-complete-day-i/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Sreeraj100/Leetcode/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | [0844-backspace-string-compare](https://github.com/Sreeraj100/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sreeraj100/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sreeraj100/Leetcode/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Sreeraj100/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Sreeraj100/Leetcode/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Sreeraj100/Leetcode/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 ## Math

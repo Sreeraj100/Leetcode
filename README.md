@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sreeraj100/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Sreeraj100/Leetcode/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Sreeraj100/Leetcode/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/Sreeraj100/Leetcode/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Sreeraj100/Leetcode/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Sreeraj100/Leetcode/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sreeraj100/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/Sreeraj100/Leetcode/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |

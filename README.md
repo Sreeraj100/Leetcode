@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | [2255-count-prefixes-of-a-given-string](https://github.com/Sreeraj100/Leetcode/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Sreeraj100/Leetcode/tree/main/2710-remove-trailing-zeros-from-a-string/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/Sreeraj100/Leetcode/tree/main/3280-convert-date-to-binary/) | Easy |
+| [3856-trim-trailing-vowels](https://github.com/Sreeraj100/Leetcode/tree/main/3856-trim-trailing-vowels/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |

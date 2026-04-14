@@ -101,11 +101,13 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1302-deepest-leaves-sum](https://github.com/Sreeraj100/Leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Sreeraj100/Leetcode/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/Sreeraj100/Leetcode/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1302-deepest-leaves-sum](https://github.com/Sreeraj100/Leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Sreeraj100/Leetcode/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/Sreeraj100/Leetcode/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -159,10 +161,12 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1302-deepest-leaves-sum](https://github.com/Sreeraj100/Leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Sreeraj100/Leetcode/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1302-deepest-leaves-sum](https://github.com/Sreeraj100/Leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Sreeraj100/Leetcode/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |

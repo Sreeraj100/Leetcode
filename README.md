@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | ------- | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/Sreeraj100/Leetcode/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sreeraj100/Leetcode/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
+| [2103-rings-and-rods](https://github.com/Sreeraj100/Leetcode/tree/main/2103-rings-and-rods/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sreeraj100/Leetcode/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2363-merge-similar-items](https://github.com/Sreeraj100/Leetcode/tree/main/2363-merge-similar-items/) | Easy |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Sreeraj100/Leetcode/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | [0942-di-string-match](https://github.com/Sreeraj100/Leetcode/tree/main/0942-di-string-match/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/Sreeraj100/Leetcode/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Sreeraj100/Leetcode/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
+| [2103-rings-and-rods](https://github.com/Sreeraj100/Leetcode/tree/main/2103-rings-and-rods/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Sreeraj100/Leetcode/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Sreeraj100/Leetcode/tree/main/2710-remove-trailing-zeros-from-a-string/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/Sreeraj100/Leetcode/tree/main/3280-convert-date-to-binary/) | Easy |

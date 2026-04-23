@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | [0942-di-string-match](https://github.com/Sreeraj100/Leetcode/tree/main/0942-di-string-match/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/Sreeraj100/Leetcode/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Sreeraj100/Leetcode/tree/main/1374-generate-a-string-with-characters-that-have-odd-counts/) | Easy |
+| [1880-check-if-word-equals-summation-of-two-words](https://github.com/Sreeraj100/Leetcode/tree/main/1880-check-if-word-equals-summation-of-two-words/) | Easy |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Sreeraj100/Leetcode/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
 | [2103-rings-and-rods](https://github.com/Sreeraj100/Leetcode/tree/main/2103-rings-and-rods/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Sreeraj100/Leetcode/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |

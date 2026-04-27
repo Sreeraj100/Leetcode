@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | [2255-count-prefixes-of-a-given-string](https://github.com/Sreeraj100/Leetcode/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sreeraj100/Leetcode/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2363-merge-similar-items](https://github.com/Sreeraj100/Leetcode/tree/main/2363-merge-similar-items/) | Easy |
+| [2506-count-pairs-of-similar-strings](https://github.com/Sreeraj100/Leetcode/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sreeraj100/Leetcode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Sreeraj100/Leetcode/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Sreeraj100/Leetcode/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | ------- | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Sreeraj100/Leetcode/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Sreeraj100/Leetcode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
+| [2506-count-pairs-of-similar-strings](https://github.com/Sreeraj100/Leetcode/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Sreeraj100/Leetcode/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Sreeraj100/Leetcode/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Sreeraj100/Leetcode/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
@@ -87,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | [2103-rings-and-rods](https://github.com/Sreeraj100/Leetcode/tree/main/2103-rings-and-rods/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sreeraj100/Leetcode/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2363-merge-similar-items](https://github.com/Sreeraj100/Leetcode/tree/main/2363-merge-similar-items/) | Easy |
+| [2506-count-pairs-of-similar-strings](https://github.com/Sreeraj100/Leetcode/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Sreeraj100/Leetcode/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Sreeraj100/Leetcode/tree/main/3184-count-pairs-that-form-a-complete-day-i/) | Easy |
 ## String
@@ -101,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Sreeraj100/Leetcode/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
 | [2103-rings-and-rods](https://github.com/Sreeraj100/Leetcode/tree/main/2103-rings-and-rods/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Sreeraj100/Leetcode/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
+| [2506-count-pairs-of-similar-strings](https://github.com/Sreeraj100/Leetcode/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Sreeraj100/Leetcode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Sreeraj100/Leetcode/tree/main/2710-remove-trailing-zeros-from-a-string/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Sreeraj100/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
@@ -136,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2506-count-pairs-of-similar-strings](https://github.com/Sreeraj100/Leetcode/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sreeraj100/Leetcode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Sreeraj100/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Sreeraj100/Leetcode/tree/main/3184-count-pairs-that-form-a-complete-day-i/) | Easy |

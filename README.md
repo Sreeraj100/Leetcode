@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sreeraj100/Leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1837-sum-of-digits-in-base-k](https://github.com/Sreeraj100/Leetcode/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
 | [1925-count-square-sum-triples](https://github.com/Sreeraj100/Leetcode/tree/main/1925-count-square-sum-triples/) | Easy |
+| [2578-split-with-minimum-sum](https://github.com/Sreeraj100/Leetcode/tree/main/2578-split-with-minimum-sum/) | Easy |
 | [3270-find-the-key-of-the-numbers](https://github.com/Sreeraj100/Leetcode/tree/main/3270-find-the-key-of-the-numbers/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/Sreeraj100/Leetcode/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Sreeraj100/Leetcode/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sreeraj100/Leetcode/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2363-merge-similar-items](https://github.com/Sreeraj100/Leetcode/tree/main/2363-merge-similar-items/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Sreeraj100/Leetcode/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
+| [2578-split-with-minimum-sum](https://github.com/Sreeraj100/Leetcode/tree/main/2578-split-with-minimum-sum/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/Sreeraj100/Leetcode/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sreeraj100/Leetcode/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sreeraj100/Leetcode/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
@@ -190,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | [0942-di-string-match](https://github.com/Sreeraj100/Leetcode/tree/main/0942-di-string-match/) | Easy |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Sreeraj100/Leetcode/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sreeraj100/Leetcode/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+| [2578-split-with-minimum-sum](https://github.com/Sreeraj100/Leetcode/tree/main/2578-split-with-minimum-sum/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sreeraj100/Leetcode/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |

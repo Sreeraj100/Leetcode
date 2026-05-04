@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | [3280-convert-date-to-binary](https://github.com/Sreeraj100/Leetcode/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Sreeraj100/Leetcode/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Sreeraj100/Leetcode/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
+| [3492-maximum-containers-on-a-ship](https://github.com/Sreeraj100/Leetcode/tree/main/3492-maximum-containers-on-a-ship/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sreeraj100/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Sreeraj100/Leetcode/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Sreeraj100/Leetcode/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |

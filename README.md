@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Sreeraj100/Leetcode/tree/main/1957-delete-characters-to-make-fancy-string/) | Easy |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Sreeraj100/Leetcode/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
 | [2103-rings-and-rods](https://github.com/Sreeraj100/Leetcode/tree/main/2103-rings-and-rods/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Sreeraj100/Leetcode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Sreeraj100/Leetcode/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Sreeraj100/Leetcode/tree/main/2496-maximum-value-of-a-string-in-an-array/) | Easy |
 | [2506-count-pairs-of-similar-strings](https://github.com/Sreeraj100/Leetcode/tree/main/2506-count-pairs-of-similar-strings/) | Easy |

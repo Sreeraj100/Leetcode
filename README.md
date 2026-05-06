@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Sreeraj100/Leetcode/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Sreeraj100/Leetcode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [2506-count-pairs-of-similar-strings](https://github.com/Sreeraj100/Leetcode/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
+| [2595-number-of-even-and-odd-bits](https://github.com/Sreeraj100/Leetcode/tree/main/2595-number-of-even-and-odd-bits/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Sreeraj100/Leetcode/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Sreeraj100/Leetcode/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Sreeraj100/Leetcode/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |

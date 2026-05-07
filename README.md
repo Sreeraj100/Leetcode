@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Sreeraj100/Leetcode/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Sreeraj100/Leetcode/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/Sreeraj100/Leetcode/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
+| [2923-find-champion-i](https://github.com/Sreeraj100/Leetcode/tree/main/2923-find-champion-i/) | Easy |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sreeraj100/Leetcode/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sreeraj100/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sreeraj100/Leetcode/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Sreeraj100/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Sreeraj100/Leetcode/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
+| [2923-find-champion-i](https://github.com/Sreeraj100/Leetcode/tree/main/2923-find-champion-i/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |

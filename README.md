@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0844-backspace-string-compare](https://github.com/Sreeraj100/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
+| [0897-increasing-order-search-tree](https://github.com/Sreeraj100/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sreeraj100/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Sreeraj100/Leetcode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 ## Queue
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0226-invert-binary-tree](https://github.com/Sreeraj100/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0897-increasing-order-search-tree](https://github.com/Sreeraj100/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [1302-deepest-leaves-sum](https://github.com/Sreeraj100/Leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Sreeraj100/Leetcode/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/Sreeraj100/Leetcode/tree/main/2236-root-equals-sum-of-children/) | Easy |
@@ -138,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0226-invert-binary-tree](https://github.com/Sreeraj100/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0897-increasing-order-search-tree](https://github.com/Sreeraj100/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [1302-deepest-leaves-sum](https://github.com/Sreeraj100/Leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Sreeraj100/Leetcode/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/Sreeraj100/Leetcode/tree/main/2236-root-equals-sum-of-children/) | Easy |
@@ -203,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0226-invert-binary-tree](https://github.com/Sreeraj100/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0897-increasing-order-search-tree](https://github.com/Sreeraj100/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [1302-deepest-leaves-sum](https://github.com/Sreeraj100/Leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Sreeraj100/Leetcode/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 ## Breadth-First Search
@@ -225,4 +229,8 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sreeraj100/Leetcode/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0897-increasing-order-search-tree](https://github.com/Sreeraj100/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 <!---LeetCode Topics End-->

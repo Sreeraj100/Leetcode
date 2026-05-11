@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | [0942-di-string-match](https://github.com/Sreeraj100/Leetcode/tree/main/0942-di-string-match/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/Sreeraj100/Leetcode/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Sreeraj100/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/Sreeraj100/Leetcode/tree/main/1233-remove-sub-folders-from-the-filesystem/) | Medium |
 | [1313-decompress-run-length-encoded-list](https://github.com/Sreeraj100/Leetcode/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sreeraj100/Leetcode/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sreeraj100/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | [0844-backspace-string-compare](https://github.com/Sreeraj100/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0942-di-string-match](https://github.com/Sreeraj100/Leetcode/tree/main/0942-di-string-match/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/Sreeraj100/Leetcode/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/Sreeraj100/Leetcode/tree/main/1233-remove-sub-folders-from-the-filesystem/) | Medium |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Sreeraj100/Leetcode/tree/main/1374-generate-a-string-with-characters-that-have-odd-counts/) | Easy |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/Sreeraj100/Leetcode/tree/main/1880-check-if-word-equals-summation-of-two-words/) | Easy |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Sreeraj100/Leetcode/tree/main/1957-delete-characters-to-make-fancy-string/) | Easy |
@@ -207,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | ------- | ------- |
 | [0226-invert-binary-tree](https://github.com/Sreeraj100/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/Sreeraj100/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/Sreeraj100/Leetcode/tree/main/1233-remove-sub-folders-from-the-filesystem/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/Sreeraj100/Leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Sreeraj100/Leetcode/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 ## Breadth-First Search
@@ -233,4 +236,8 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0897-increasing-order-search-tree](https://github.com/Sreeraj100/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/Sreeraj100/Leetcode/tree/main/1233-remove-sub-folders-from-the-filesystem/) | Medium |
 <!---LeetCode Topics End-->

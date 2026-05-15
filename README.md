@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | [2255-count-prefixes-of-a-given-string](https://github.com/Sreeraj100/Leetcode/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sreeraj100/Leetcode/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2363-merge-similar-items](https://github.com/Sreeraj100/Leetcode/tree/main/2363-merge-similar-items/) | Easy |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Sreeraj100/Leetcode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Sreeraj100/Leetcode/tree/main/2496-maximum-value-of-a-string-in-an-array/) | Easy |
 | [2506-count-pairs-of-similar-strings](https://github.com/Sreeraj100/Leetcode/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sreeraj100/Leetcode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Sreeraj100/Leetcode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sreeraj100/Leetcode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -166,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Sreeraj100/Leetcode/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sreeraj100/Leetcode/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2363-merge-similar-items](https://github.com/Sreeraj100/Leetcode/tree/main/2363-merge-similar-items/) | Easy |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Sreeraj100/Leetcode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Sreeraj100/Leetcode/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2578-split-with-minimum-sum](https://github.com/Sreeraj100/Leetcode/tree/main/2578-split-with-minimum-sum/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/Sreeraj100/Leetcode/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
@@ -203,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | [0942-di-string-match](https://github.com/Sreeraj100/Leetcode/tree/main/0942-di-string-match/) | Easy |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Sreeraj100/Leetcode/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sreeraj100/Leetcode/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Sreeraj100/Leetcode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2578-split-with-minimum-sum](https://github.com/Sreeraj100/Leetcode/tree/main/2578-split-with-minimum-sum/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sreeraj100/Leetcode/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 ## Depth-First Search
@@ -241,4 +245,8 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/Sreeraj100/Leetcode/tree/main/1233-remove-sub-folders-from-the-filesystem/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Sreeraj100/Leetcode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 <!---LeetCode Topics End-->

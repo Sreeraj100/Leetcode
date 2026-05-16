@@ -249,4 +249,8 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Sreeraj100/Leetcode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0627-swap-sex-of-employees](https://github.com/Sreeraj100/Leetcode/tree/main/0627-swap-sex-of-employees/) | Easy |
 <!---LeetCode Topics End-->

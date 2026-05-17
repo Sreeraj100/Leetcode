@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | [2506-count-pairs-of-similar-strings](https://github.com/Sreeraj100/Leetcode/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sreeraj100/Leetcode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Sreeraj100/Leetcode/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/Sreeraj100/Leetcode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Sreeraj100/Leetcode/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/Sreeraj100/Leetcode/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [2923-find-champion-i](https://github.com/Sreeraj100/Leetcode/tree/main/2923-find-champion-i/) | Easy |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | [0950-reveal-cards-in-increasing-order](https://github.com/Sreeraj100/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sreeraj100/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sreeraj100/Leetcode/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/Sreeraj100/Leetcode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Sreeraj100/Leetcode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sreeraj100/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Sreeraj100/Leetcode/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
@@ -237,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sreeraj100/Leetcode/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/Sreeraj100/Leetcode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |

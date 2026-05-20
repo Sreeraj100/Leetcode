@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | [0950-reveal-cards-in-increasing-order](https://github.com/Sreeraj100/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/Sreeraj100/Leetcode/tree/main/1233-remove-sub-folders-from-the-filesystem/) | Medium |
 | [1313-decompress-run-length-encoded-list](https://github.com/Sreeraj100/Leetcode/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
+| [1408-string-matching-in-an-array](https://github.com/Sreeraj100/Leetcode/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sreeraj100/Leetcode/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sreeraj100/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Sreeraj100/Leetcode/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | [0944-delete-columns-to-make-sorted](https://github.com/Sreeraj100/Leetcode/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/Sreeraj100/Leetcode/tree/main/1233-remove-sub-folders-from-the-filesystem/) | Medium |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Sreeraj100/Leetcode/tree/main/1374-generate-a-string-with-characters-that-have-odd-counts/) | Easy |
+| [1408-string-matching-in-an-array](https://github.com/Sreeraj100/Leetcode/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/Sreeraj100/Leetcode/tree/main/1880-check-if-word-equals-summation-of-two-words/) | Easy |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Sreeraj100/Leetcode/tree/main/1957-delete-characters-to-make-fancy-string/) | Easy |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Sreeraj100/Leetcode/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
@@ -261,4 +263,8 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0627-swap-sex-of-employees](https://github.com/Sreeraj100/Leetcode/tree/main/0627-swap-sex-of-employees/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1408-string-matching-in-an-array](https://github.com/Sreeraj100/Leetcode/tree/main/1408-string-matching-in-an-array/) | Easy |
 <!---LeetCode Topics End-->

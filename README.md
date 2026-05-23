@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | [2733-neither-minimum-nor-maximum](https://github.com/Sreeraj100/Leetcode/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sreeraj100/Leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2923-find-champion-i](https://github.com/Sreeraj100/Leetcode/tree/main/2923-find-champion-i/) | Easy |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Sreeraj100/Leetcode/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sreeraj100/Leetcode/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sreeraj100/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sreeraj100/Leetcode/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Sreeraj100/Leetcode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [2506-count-pairs-of-similar-strings](https://github.com/Sreeraj100/Leetcode/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2595-number-of-even-and-odd-bits](https://github.com/Sreeraj100/Leetcode/tree/main/2595-number-of-even-and-odd-bits/) | Easy |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Sreeraj100/Leetcode/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Sreeraj100/Leetcode/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Sreeraj100/Leetcode/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Sreeraj100/Leetcode/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
@@ -108,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | [2506-count-pairs-of-similar-strings](https://github.com/Sreeraj100/Leetcode/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Sreeraj100/Leetcode/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sreeraj100/Leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Sreeraj100/Leetcode/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Sreeraj100/Leetcode/tree/main/3184-count-pairs-that-form-a-complete-day-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -258,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | ------- | ------- |
 | [0720-longest-word-in-dictionary](https://github.com/Sreeraj100/Leetcode/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/Sreeraj100/Leetcode/tree/main/1233-remove-sub-folders-from-the-filesystem/) | Medium |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Sreeraj100/Leetcode/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -270,4 +274,8 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1408-string-matching-in-an-array](https://github.com/Sreeraj100/Leetcode/tree/main/1408-string-matching-in-an-array/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Sreeraj100/Leetcode/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 <!---LeetCode Topics End-->

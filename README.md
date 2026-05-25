@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | [3280-convert-date-to-binary](https://github.com/Sreeraj100/Leetcode/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Sreeraj100/Leetcode/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 | [3856-trim-trailing-vowels](https://github.com/Sreeraj100/Leetcode/tree/main/3856-trim-trailing-vowels/) | Easy |
+| [3931-check-adjacent-digit-differences](https://github.com/Sreeraj100/Leetcode/tree/main/3931-check-adjacent-digit-differences/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |

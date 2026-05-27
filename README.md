@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | [2932-maximum-strong-pair-xor-i](https://github.com/Sreeraj100/Leetcode/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Sreeraj100/Leetcode/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sreeraj100/Leetcode/tree/main/3010-divide-an-array-into-subarrays-with-minimum-cost-i/) | Easy |
+| [3028-ant-on-the-boundary](https://github.com/Sreeraj100/Leetcode/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sreeraj100/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sreeraj100/Leetcode/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Sreeraj100/Leetcode/tree/main/3184-count-pairs-that-form-a-complete-day-i/) | Easy |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Sreeraj100/Leetcode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Sreeraj100/Leetcode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [2960-count-tested-devices-after-test-operations](https://github.com/Sreeraj100/Leetcode/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
+| [3028-ant-on-the-boundary](https://github.com/Sreeraj100/Leetcode/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sreeraj100/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Sreeraj100/Leetcode/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Sreeraj100/Leetcode/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
@@ -273,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Sreeraj100/Leetcode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
+| [3028-ant-on-the-boundary](https://github.com/Sreeraj100/Leetcode/tree/main/3028-ant-on-the-boundary/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |

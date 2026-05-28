@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Sreeraj100/Leetcode/tree/main/3423-maximum-difference-between-adjacent-elements-in-a-circular-array/) | Easy |
 | [3452-sum-of-good-numbers](https://github.com/Sreeraj100/Leetcode/tree/main/3452-sum-of-good-numbers/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Sreeraj100/Leetcode/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Sreeraj100/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Sreeraj100/Leetcode/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sreeraj100/Leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Sreeraj100/Leetcode/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Sreeraj100/Leetcode/tree/main/3184-count-pairs-that-form-a-complete-day-i/) | Easy |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Sreeraj100/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |

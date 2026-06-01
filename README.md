@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | [0048-rotate-image](https://github.com/Sreeraj100/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Sreeraj100/Leetcode/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sreeraj100/Leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+| [1551-minimum-operations-to-make-array-equal](https://github.com/Sreeraj100/Leetcode/tree/main/1551-minimum-operations-to-make-array-equal/) | Medium |
 | [1837-sum-of-digits-in-base-k](https://github.com/Sreeraj100/Leetcode/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
 | [1925-count-square-sum-triples](https://github.com/Sreeraj100/Leetcode/tree/main/1925-count-square-sum-triples/) | Easy |
 | [2578-split-with-minimum-sum](https://github.com/Sreeraj100/Leetcode/tree/main/2578-split-with-minimum-sum/) | Easy |

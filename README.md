@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Sreeraj100/Leetcode/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Sreeraj100/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Sreeraj100/Leetcode/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
+| [3921-score-validator](https://github.com/Sreeraj100/Leetcode/tree/main/3921-score-validator/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Sreeraj100/Leetcode/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Sreeraj100/Leetcode/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Sreeraj100/Leetcode/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
+| [3921-score-validator](https://github.com/Sreeraj100/Leetcode/tree/main/3921-score-validator/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -146,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | [3280-convert-date-to-binary](https://github.com/Sreeraj100/Leetcode/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Sreeraj100/Leetcode/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 | [3856-trim-trailing-vowels](https://github.com/Sreeraj100/Leetcode/tree/main/3856-trim-trailing-vowels/) | Easy |
+| [3921-score-validator](https://github.com/Sreeraj100/Leetcode/tree/main/3921-score-validator/) | Easy |
 | [3931-check-adjacent-digit-differences](https://github.com/Sreeraj100/Leetcode/tree/main/3931-check-adjacent-digit-differences/) | Easy |
 ## Design
 | Problem Name | Difficulty |

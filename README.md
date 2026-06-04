@@ -286,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0627-swap-sex-of-employees](https://github.com/Sreeraj100/Leetcode/tree/main/0627-swap-sex-of-employees/) | Easy |
+| [1757-recyclable-and-low-fat-products](https://github.com/Sreeraj100/Leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |

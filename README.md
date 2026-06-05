@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Sreeraj100/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Sreeraj100/Leetcode/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 | [3921-score-validator](https://github.com/Sreeraj100/Leetcode/tree/main/3921-score-validator/) | Easy |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Sreeraj100/Leetcode/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -224,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | [0942-di-string-match](https://github.com/Sreeraj100/Leetcode/tree/main/0942-di-string-match/) | Easy |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Sreeraj100/Leetcode/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Sreeraj100/Leetcode/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Sreeraj100/Leetcode/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |

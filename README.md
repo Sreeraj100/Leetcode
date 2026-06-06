@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Sreeraj100/Leetcode/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sreeraj100/Leetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2932-maximum-strong-pair-xor-i](https://github.com/Sreeraj100/Leetcode/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Sreeraj100/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Sreeraj100/Leetcode/tree/main/3184-count-pairs-that-form-a-complete-day-i/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Sreeraj100/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## String
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Sreeraj100/Leetcode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Sreeraj100/Leetcode/tree/main/2710-remove-trailing-zeros-from-a-string/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Sreeraj100/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Sreeraj100/Leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/Sreeraj100/Leetcode/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Sreeraj100/Leetcode/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 | [3856-trim-trailing-vowels](https://github.com/Sreeraj100/Leetcode/tree/main/3856-trim-trailing-vowels/) | Easy |

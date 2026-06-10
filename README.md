@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Sreeraj100/Leetcode/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Sreeraj100/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Sreeraj100/Leetcode/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
+| [3861-minimum-capacity-box](https://github.com/Sreeraj100/Leetcode/tree/main/3861-minimum-capacity-box/) | Easy |
 | [3921-score-validator](https://github.com/Sreeraj100/Leetcode/tree/main/3921-score-validator/) | Easy |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Sreeraj100/Leetcode/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
 ## Bit Manipulation

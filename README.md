@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sreeraj100/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Sreeraj100/Leetcode/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Sreeraj100/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/Sreeraj100/Leetcode/tree/main/2200-find-all-k-distant-indices-in-an-array/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Sreeraj100/Leetcode/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sreeraj100/Leetcode/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2363-merge-similar-items](https://github.com/Sreeraj100/Leetcode/tree/main/2363-merge-similar-items/) | Easy |
@@ -229,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | ------- | ------- |
 | [0844-backspace-string-compare](https://github.com/Sreeraj100/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0942-di-string-match](https://github.com/Sreeraj100/Leetcode/tree/main/0942-di-string-match/) | Easy |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/Sreeraj100/Leetcode/tree/main/2200-find-all-k-distant-indices-in-an-array/) | Easy |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Sreeraj100/Leetcode/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Sreeraj100/Leetcode/tree/main/3750-minimum-number-of-flips-to-reverse-binary-string/) | Easy |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Sreeraj100/Leetcode/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |

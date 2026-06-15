@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | [1313-decompress-run-length-encoded-list](https://github.com/Sreeraj100/Leetcode/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/Sreeraj100/Leetcode/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sreeraj100/Leetcode/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
+| [1598-crawler-log-folder](https://github.com/Sreeraj100/Leetcode/tree/main/1598-crawler-log-folder/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sreeraj100/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Sreeraj100/Leetcode/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Sreeraj100/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | ------- | ------- |
 | [0844-backspace-string-compare](https://github.com/Sreeraj100/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/Sreeraj100/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
+| [1598-crawler-log-folder](https://github.com/Sreeraj100/Leetcode/tree/main/1598-crawler-log-folder/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sreeraj100/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Sreeraj100/Leetcode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 ## Queue
@@ -141,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/Sreeraj100/Leetcode/tree/main/1233-remove-sub-folders-from-the-filesystem/) | Medium |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Sreeraj100/Leetcode/tree/main/1374-generate-a-string-with-characters-that-have-odd-counts/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/Sreeraj100/Leetcode/tree/main/1408-string-matching-in-an-array/) | Easy |
+| [1598-crawler-log-folder](https://github.com/Sreeraj100/Leetcode/tree/main/1598-crawler-log-folder/) | Easy |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/Sreeraj100/Leetcode/tree/main/1880-check-if-word-equals-summation-of-two-words/) | Easy |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Sreeraj100/Leetcode/tree/main/1957-delete-characters-to-make-fancy-string/) | Easy |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Sreeraj100/Leetcode/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |

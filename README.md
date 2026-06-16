@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | [1598-crawler-log-folder](https://github.com/Sreeraj100/Leetcode/tree/main/1598-crawler-log-folder/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sreeraj100/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Sreeraj100/Leetcode/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
+| [1991-find-the-middle-index-in-array](https://github.com/Sreeraj100/Leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Sreeraj100/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Sreeraj100/Leetcode/tree/main/2200-find-all-k-distant-indices-in-an-array/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Sreeraj100/Leetcode/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
@@ -293,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1991-find-the-middle-index-in-array](https://github.com/Sreeraj100/Leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Sreeraj100/Leetcode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/Sreeraj100/Leetcode/tree/main/3028-ant-on-the-boundary/) | Easy |
 ## Database

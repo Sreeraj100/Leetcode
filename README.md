@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sreeraj100/Leetcode/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1598-crawler-log-folder](https://github.com/Sreeraj100/Leetcode/tree/main/1598-crawler-log-folder/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sreeraj100/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [1710-maximum-units-on-a-truck](https://github.com/Sreeraj100/Leetcode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Sreeraj100/Leetcode/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/Sreeraj100/Leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Sreeraj100/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | [0720-longest-word-in-dictionary](https://github.com/Sreeraj100/Leetcode/tree/main/0720-longest-word-in-dictionary/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Sreeraj100/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sreeraj100/Leetcode/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
+| [1710-maximum-units-on-a-truck](https://github.com/Sreeraj100/Leetcode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Sreeraj100/Leetcode/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sreeraj100/Leetcode/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2363-merge-similar-items](https://github.com/Sreeraj100/Leetcode/tree/main/2363-merge-similar-items/) | Easy |
@@ -247,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | ------- | ------- |
 | [0605-can-place-flowers](https://github.com/Sreeraj100/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0942-di-string-match](https://github.com/Sreeraj100/Leetcode/tree/main/0942-di-string-match/) | Easy |
+| [1710-maximum-units-on-a-truck](https://github.com/Sreeraj100/Leetcode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Sreeraj100/Leetcode/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sreeraj100/Leetcode/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Sreeraj100/Leetcode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |

@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | [1710-maximum-units-on-a-truck](https://github.com/Sreeraj100/Leetcode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Sreeraj100/Leetcode/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/Sreeraj100/Leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Sreeraj100/Leetcode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Sreeraj100/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Sreeraj100/Leetcode/tree/main/2200-find-all-k-distant-indices-in-an-array/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Sreeraj100/Leetcode/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | [0844-backspace-string-compare](https://github.com/Sreeraj100/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Sreeraj100/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sreeraj100/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Sreeraj100/Leetcode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Sreeraj100/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sreeraj100/Leetcode/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Sreeraj100/Leetcode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
@@ -277,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Sreeraj100/Leetcode/tree/main/0048-rotate-image/) | Medium |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Sreeraj100/Leetcode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Sreeraj100/Leetcode/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2923-find-champion-i](https://github.com/Sreeraj100/Leetcode/tree/main/2923-find-champion-i/) | Easy |
 ## Heap (Priority Queue)

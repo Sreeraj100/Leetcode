@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | [1991-find-the-middle-index-in-array](https://github.com/Sreeraj100/Leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Sreeraj100/Leetcode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Sreeraj100/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Sreeraj100/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Sreeraj100/Leetcode/tree/main/2200-find-all-k-distant-indices-in-an-array/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Sreeraj100/Leetcode/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sreeraj100/Leetcode/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
@@ -256,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Sreeraj100/Leetcode/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/Sreeraj100/Leetcode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Sreeraj100/Leetcode/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Sreeraj100/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sreeraj100/Leetcode/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Sreeraj100/Leetcode/tree/main/2389-longest-subsequence-with-limited-sum/) | Easy |
 | [2578-split-with-minimum-sum](https://github.com/Sreeraj100/Leetcode/tree/main/2578-split-with-minimum-sum/) | Easy |

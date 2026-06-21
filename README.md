@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sreeraj100/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sreeraj100/Leetcode/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Sreeraj100/Leetcode/tree/main/3184-count-pairs-that-form-a-complete-day-i/) | Easy |
+| [3379-transformed-array](https://github.com/Sreeraj100/Leetcode/tree/main/3379-transformed-array/) | Easy |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Sreeraj100/Leetcode/tree/main/3423-maximum-difference-between-adjacent-elements-in-a-circular-array/) | Easy |
 | [3452-sum-of-good-numbers](https://github.com/Sreeraj100/Leetcode/tree/main/3452-sum-of-good-numbers/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Sreeraj100/Leetcode/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | [3028-ant-on-the-boundary](https://github.com/Sreeraj100/Leetcode/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sreeraj100/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Sreeraj100/Leetcode/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
+| [3379-transformed-array](https://github.com/Sreeraj100/Leetcode/tree/main/3379-transformed-array/) | Easy |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Sreeraj100/Leetcode/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Sreeraj100/Leetcode/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 | [3921-score-validator](https://github.com/Sreeraj100/Leetcode/tree/main/3921-score-validator/) | Easy |

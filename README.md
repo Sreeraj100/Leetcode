@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Sreeraj100/Leetcode/tree/main/3774-absolute-difference-between-maximum-and-minimum-k-elements/) | Easy |
 | [3861-minimum-capacity-box](https://github.com/Sreeraj100/Leetcode/tree/main/3861-minimum-capacity-box/) | Easy |
 | [3921-score-validator](https://github.com/Sreeraj100/Leetcode/tree/main/3921-score-validator/) | Easy |
+| [3925-concatenate-array-with-reverse](https://github.com/Sreeraj100/Leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Sreeraj100/Leetcode/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Sreeraj100/Leetcode/tree/main/3688-bitwise-or-of-even-numbers-in-an-array/) | Easy |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Sreeraj100/Leetcode/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 | [3921-score-validator](https://github.com/Sreeraj100/Leetcode/tree/main/3921-score-validator/) | Easy |
+| [3925-concatenate-array-with-reverse](https://github.com/Sreeraj100/Leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |

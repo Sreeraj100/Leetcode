@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | [1710-maximum-units-on-a-truck](https://github.com/Sreeraj100/Leetcode/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Sreeraj100/Leetcode/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/Sreeraj100/Leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Sreeraj100/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Sreeraj100/Leetcode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Sreeraj100/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sreeraj100/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | [0844-backspace-string-compare](https://github.com/Sreeraj100/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Sreeraj100/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sreeraj100/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Sreeraj100/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Sreeraj100/Leetcode/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Sreeraj100/Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sreeraj100/Leetcode/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
@@ -158,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview Created using [Leet
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/Sreeraj100/Leetcode/tree/main/1880-check-if-word-equals-summation-of-two-words/) | Easy |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Sreeraj100/Leetcode/tree/main/1957-delete-characters-to-make-fancy-string/) | Easy |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Sreeraj100/Leetcode/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Sreeraj100/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2103-rings-and-rods](https://github.com/Sreeraj100/Leetcode/tree/main/2103-rings-and-rods/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Sreeraj100/Leetcode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Sreeraj100/Leetcode/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
